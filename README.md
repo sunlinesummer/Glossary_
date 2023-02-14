@@ -5,13 +5,16 @@
 **ABSTRACT**
 complicated, ideal 
 ex: "I explican abstract cocepts through examples".
+
 **AÇOITE**
 instrumento de tiras de couro que serve para castigar, azorrangue, chicote, látego.
 chicote;chicotiar;castigo
+
 **ASCÉTICA**
 doutrina dos ascetas.
 aperfeiçoamento espitual
-*ASSOALHO**
+
+**ASSOALHO**
 pavimento de madeira, geralmente composto pelo conjunto de várias tábuas; piso: a enchente levou praticamente todo o assoalho da casa.
 piso de madeira em geral
 
@@ -32,6 +35,7 @@ pequena coluna para segurar cerca; coluna de madeira; coluna de pedra
 **DISSENTIR**
 sentir diversamente; discordar; divergir; não combinar (o genio, o temperamento).
 senti-se indiferente a algo
+
 **DIÁFANO**
 transparente; que possibilita a passagem da luz através de sua massa compacta sem haja prejuízo na percepção das formas dos objetos; translúcido.
 som abafado
@@ -41,6 +45,7 @@ som abafado
 **EMPALIDECER**
 perder cor, fazer-se pálido; empalideceu de susto.
 palidez
+
 **ENRAIVECIA**
 estar aborrecido; cheio de raiva; furioso.
 sentimento de fúria; zangado; raivoso
@@ -62,6 +67,7 @@ algo de boa qualidade
 **HERMETICAMENTE**
 de modo hermético, completamente fechado, vedado, selado: embalagem hermeticamente fechada.
 perfeitamente selado
+
 **HACKER**
 quem invade sistemas computacionais ou computadores para acessar informações confidenciais ou não autorizadas
 ser anônimo que a sociedade não gosta
@@ -87,6 +93,7 @@ local localizado
 **NINHARIA**
 objeto muito pequeno e sem valor valor; insignificante.
 pequeno valor; não valer muito
+
 **NITIDO**
 com excesso de luminosidade; que brilha; brilhante
 visão clara;algo que se ver nitido
@@ -96,6 +103,7 @@ visão clara;algo que se ver nitido
 **OBJECTIVE**
 objective, outer
 ex:"The objective of the strategy is to improve sales".
+
 **OBSERVADO**
 analisado; examinado detalhadamente
 observar algo
@@ -105,6 +113,7 @@ observar algo
 **PRAGUEJAR**
 soltar pragas ou imprecações; almodiçoar, vocifear: praquejava maldições ao motorista; a velha varria a calçada e praquejava.
 amaldiaçoar algo ou alguém
+
 **PURPOSE**
 purpose, intention, objective, neaning, function, resolve.
 ex: "The purpose of the meeting is to appoint a new president".
