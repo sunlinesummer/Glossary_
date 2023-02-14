@@ -64,6 +64,7 @@ perfeitamente selado
 **HACKER**
 quem invade sistemas computacionais ou computadores para acessar informações confidenciais ou não autorizadas
 ser anônimo que a sociedade não gosta
+
 - I
 
 **INDUSTRIAIS**
