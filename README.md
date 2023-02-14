@@ -11,7 +11,7 @@ chicote;chicotiar;castigo
 **ASCÉTICA**
 doutrina dos ascetas.
 aperfeiçoamento espitual
-*ASSOALHO*
+*ASSOALHO**
 pavimento de madeira, geralmente composto pelo conjunto de várias tábuas; piso: a enchente levou praticamente todo o assoalho da casa.
 piso de madeira em geral
 
