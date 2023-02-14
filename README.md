@@ -1,7 +1,8 @@
 # Glossary_
 
-A
-*AÇOITE*
+- A 
+
+**AÇOITE**
 instrumento de tiras de couro que serve para castigar, azorrangue, chicote, látego.
 chicote;chicotiar;castigo
 *ASCÉTICA*
