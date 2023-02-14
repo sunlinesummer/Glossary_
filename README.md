@@ -22,7 +22,7 @@ pequeno pilar empregado geralmente com outros e unido a eles por uma laje ou cor
 pequena coluna para segurar cerca; coluna de madeira; coluna de pedra
 
 - C
-- 
+
  **CPF**
  sigla de Cadastro de Pessoas Físicas.
  documento 
