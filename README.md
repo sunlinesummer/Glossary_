@@ -6,21 +6,21 @@
 complicated, ideal 
 ex: "I explican abstract cocepts through examples".
 
-**AÇOITE**
+AÇOITE
 instrumento de tiras de couro que serve para castigar, azorrangue, chicote, látego.
 chicote;chicotiar;castigo
 
-**ASCÉTICA**
+ASCÉTICA
 doutrina dos ascetas.
 aperfeiçoamento espitual
 
-**ASSOALHO**
+ASSOALHO
 pavimento de madeira, geralmente composto pelo conjunto de várias tábuas; piso: a enchente levou praticamente todo o assoalho da casa.
 piso de madeira em geral
 
 - B
 
-**BALAÚSTRE**
+BALAÚSTRE
 pequeno pilar empregado geralmente com outros e unido a eles por uma laje ou corrimão para formar um apoio ou uma grade.
 pequena coluna para segurar cerca; coluna de madeira; coluna de pedra
 
@@ -32,21 +32,21 @@ pequena coluna para segurar cerca; coluna de madeira; coluna de pedra
 
 - D
 
-**DISSENTIR**
+DISSENTIR
 sentir diversamente; discordar; divergir; não combinar (o genio, o temperamento).
 senti-se indiferente a algo
 
-**DIÁFANO**
+DIÁFANO
 transparente; que possibilita a passagem da luz através de sua massa compacta sem haja prejuízo na percepção das formas dos objetos; translúcido.
 som abafado
 
 - E
 
-**EMPALIDECER**
+EMPALIDECER
 perder cor, fazer-se pálido; empalideceu de susto.
 palidez
 
-**ENRAIVECIA**
+ENRAIVECIA
 estar aborrecido; cheio de raiva; furioso.
 sentimento de fúria; zangado; raivoso
 
@@ -64,7 +64,7 @@ algo de boa qualidade
 
 - H
 
-**HERMETICAMENTE**
+HERMETICAMENTE
 de modo hermético, completamente fechado, vedado, selado: embalagem hermeticamente fechada.
 perfeitamente selado
 
@@ -90,11 +90,11 @@ local localizado
 
 - N
 
-**NINHARIA**
+NINHARIA
 objeto muito pequeno e sem valor valor; insignificante.
 pequeno valor; não valer muito
 
-**NITIDO**
+NITIDO
 com excesso de luminosidade; que brilha; brilhante
 visão clara;algo que se ver nitido
 
@@ -110,7 +110,7 @@ observar algo
 
 - P
 
-**PRAGUEJAR**
+PRAGUEJAR
 soltar pragas ou imprecações; almodiçoar, vocifear: praquejava maldições ao motorista; a velha varria a calçada e praquejava.
 amaldiaçoar algo ou alguém
 
@@ -138,7 +138,7 @@ ex:"Our fire prevention system provides total security".
 
 - V
 
-**VEEMÊNCIA**
+VEEMÊNCIA
 característica de veemente; impetuoso, intenso; impetuosidade
 emoção intensa; euforia 
 
